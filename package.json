@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yoonhee",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoonheeJo/Factory.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/YoonheeJo/Factory/issues"
+  },
+  "homepage": "https://github.com/YoonheeJo/Factory#readme"
 }
